@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #121212;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding-top: 120px;
+}
+
+.logoImg{
+  max-width: 350px;
+  border-radius: 60%;
+}
+
+.title{
+  color: #FFF;
+  margin: 14px 0;
+}
+
+.categoria-area{
+  display: flex;
+  gap: 14px;
+  margin-bottom: 34px;
+  width: 80vw;
+}
+
+.categoria-button {
+  padding: 4px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button-frase {
+  background-color: #B22222;
+  border: 0;
+  border-radius: 4px;
+  padding: 8px 16px;
+  color: #FFF;
+  font-size: 16px;
+}
+
+.textoFrase {
+  width: 420px;
+  background-color: #fafafa;
+  border-radius: 4px;
+  text-align: center;
+  padding: 14px 22px;
+  margin: 24px 0 16px 0;
+  line-height: 150%;
+  color: #B22222;
+  font-style: italic;
+  font-size: 18px;
+}
+

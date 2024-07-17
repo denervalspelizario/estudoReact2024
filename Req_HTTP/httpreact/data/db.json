@@ -1,0 +1,29 @@
+{
+  "produtcs": [
+    {
+      "name": "cadeira",
+      "price": "200",
+      "id": 8
+    },
+    {
+      "name": "mouse",
+      "price": "60",
+      "id": 9
+    },
+    {
+      "name": "calca roxa",
+      "price": "250",
+      "id": 11
+    },
+    {
+      "name": "suporte tv",
+      "price": "75",
+      "id": 12
+    },
+    {
+      "name": "tv",
+      "price": "2000",
+      "id": 25
+    }
+  ]
+}
